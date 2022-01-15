@@ -1,2 +1,14 @@
 # Full_Stack_Spring_Angular_JWT_App
 
+Employee Dashboard developed using:
+JAVA
+SPRING BOOT
+SPRING DATA
+SPRING SECURITY
+JWT
+ANGULAR
+H2 DATABASE
+POSTGRES
+TYPESCRIPT
+HMLT
+CSS.
